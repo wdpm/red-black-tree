@@ -104,10 +104,12 @@
 | case 5 => goto case 6                                        | case 6                                                       |      |
 | case 5只是转化，为case 6的处理铺垫。                         | 此时删除N，是平衡的。                                        |      |
 
+> TODO 绘制case状态机转移图
 
 
-## Reference
+## References
 
 - [Red–black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 - [Red-black tree (C)](https://web.archive.org/web/20140328232325/http://en.literateprograms.org/Red-black_tree_(C)#Insertion)
+- [Red/Black Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
